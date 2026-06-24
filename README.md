@@ -1,2 +1,2 @@
-# Classification-Brain-Tumor
-Deep learning system for brain tumor classification 
+https://www.kaggle.com/datasets/snish9/rsnabrats20212d?select=flair
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
